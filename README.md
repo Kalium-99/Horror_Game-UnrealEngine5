@@ -20,7 +20,7 @@ Open a terminal or command prompt and navigate to the directory where you want t
 
 bashCopy code
 
-`[git clone https://github.com/your-username/your-repository.git](https://github.com/Kalium-99/Horror_Game-UnrealEngine5.git)`
+`(https://github.com/Kalium-99/Horror_Game-UnrealEngine5.git)`
 
 Replace `your-username` with your GitHub username and `your-repository` with the name of this repository.
 
